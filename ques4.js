@@ -1,4 +1,5 @@
 let fruits = ["apple", "mango", "banana"]
-function fruits() {
-    return
-}
+
+fruits[1] = "orange"
+
+console.log(fruits)
